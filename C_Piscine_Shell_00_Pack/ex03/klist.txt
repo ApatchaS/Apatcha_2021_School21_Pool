@@ -1,0 +1,5 @@
+Credentials cache: API:01ABD9D9-FB4F-4D05-AA5D-D4265044D679
+        Principal: asippy@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  4 11:28:21 2021  Aug  4 21:28:07 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
